@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Tema {
+public class Temaa {
         public static void main(String[] args){
             Scanner sc=new Scanner(System.in);
             System.out.println("Выбери команду:");
@@ -78,5 +78,4 @@ public class Tema {
 
         }
     }
-
 
